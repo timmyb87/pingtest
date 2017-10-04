@@ -1,5 +1,0 @@
-Ping attempt to www.google.com failed 2017/10/04 08:43:45
-
-Ping attempt to www.yahoo.com failed 2017/10/04 08:43:50
-
-Summary:
