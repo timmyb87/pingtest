@@ -1,0 +1,20 @@
+Ping attempt to www.google.com failed 2017/10/03 20:45:26
+
+Ping attempt to www.yahoo.com failed 2017/10/03 20:45:31
+
+Summary:
+Test to 127.0.0.1
+Tries: 2
+Successes: 2
+Percent of Successes: 100.0%
+
+Test to www.google.com
+Tries: 1
+Successes: 0
+Percent of Successes: 0.0%
+
+Test to www.yahoo.com
+Tries: 1
+Successes: 0
+Percent of Successes: 0.0%
+
